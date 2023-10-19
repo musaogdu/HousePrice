@@ -528,8 +528,7 @@ plot_importance(model, X)
 
 
 ########################################
-# test dataframeindeki boş olan salePrice değişkenlerini tahminleyiniz ve
-# Kaggle sayfasına submit etmeye uygun halde bir dataframe oluşturunuz. (Id, SalePrice)
+# Submission format 
 ########################################
 
 model = LGBMRegressor()
